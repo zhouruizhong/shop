@@ -5,14 +5,14 @@
 </template>
 
 <script>
-  export default {
-    name: 'HelloWorld',
-    data() {
-      return {
-        msg: '<h1>Welcome to Your Vue.js App</h1>'
-      }
+export default {
+  name: 'HelloWorld',
+  data () {
+    return {
+      msg: '<h1>Welcome to Your Vue.js App</h1>'
     }
   }
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
